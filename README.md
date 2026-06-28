@@ -67,9 +67,13 @@ python main.py
 fee-management-system/
 
 ├── main.py             # Main application file
+
 ├── requirements.txt    # All dependencies (install with pip)
+
 ├── .env                # Your local DB password (never shared)
+
 ├── .gitignore          # Files excluded from GitHub
+
 └── README.md           # This file
 
 ---
